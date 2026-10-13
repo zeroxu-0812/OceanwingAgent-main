@@ -1,0 +1,4 @@
+interface:
+  display_name: "ABA Trends"
+  short_description: "Chart weekly/monthly ABA keyword ranks"
+  default_prompt: "Use $aba-trends to fetch ABA rank trends for these keywords and compare weekly/monthly movement."
